@@ -29,11 +29,12 @@ module.exports = {
     lastName: 'Cobain',
     genre: 'Rock',
   },
-    marley: {
+  
+  marley: {
     firstName: 'Bob',
     lastName: 'Marley',
     genre: 'Reggae',
-  }
+  },
 
   king: {
     firstName: 'Bo',
